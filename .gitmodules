@@ -1,0 +1,6 @@
+[submodule "module1"]
+	path = module1
+	url = /Users/fulop.barna/Desktop/GIT/git_submodule
+[submodule "module-1"]
+	path = module-1
+	url = /Users/fulop.barna/Desktop/GIT/git_submodule/
